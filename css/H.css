@@ -1,0 +1,20 @@
+.videoSec {display:flex;justify-content: center;height:100vh;}
+.video01{
+    width:1600px;height:900px;display:block;
+    
+    
+}
+
+.video010{
+    width:1600px;height:900px;display:block;
+    
+    
+}
+
+/*맨위 영상*/
+.video0101 {
+    width:100%;display:block;
+}
+video{
+    z-index:10000;
+}
